@@ -1,7 +1,7 @@
 # comp3411-ass2-tests
 **COMP3411 19T2 assignment 2 (UNSW)**  
 
-This repository contains some scripts to compare the outputs of standard models. **Please note that my implementations are not necessary correct. They might be slightly wrong, might have major issues, or might be entirely wrong**
+This repository contains some scripts to compare the outputs of standard models. **Please note that my implementations are not necessarily correct. They might be slightly wrong, might have major issues, or might be entirely wrong**
 
 ## Usage
 1. Download this repository and then copy compare_result.sh to your assignment 2 directory.  
