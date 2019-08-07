@@ -5,14 +5,14 @@ This repository contains some scripts to compare the outputs of standard models.
 
 ## Usage
 1. Download this repository and then copy compare_result.sh to your assignment 2 directory.  
-2. Copy comp3411-ass2-tests.zip using a **CSE machile** (we are not allowed to make the dataset public):  
+2. Copy comp3411-ass2-tests.zip using a **CSE machine** (we are not allowed to make the dataset public):  
 cp ~z5137425/public/comp3411-ass2-tests.zip <your_ass2_dir>  
 3. unzip the archive: unzip comp3411-ass2-tests.zip
 2. run: bash compare_result.sh  
 
 ## Results
 - For each test it only shows **how many lines** produced by your programs are **different** from my outputs.  
-- The very last line printed by this script would be a summary on how many lines different.
+- The last line printed by this script would be a summary on how many lines different.
 
 ## My Outputs
 - Train on training set (first 1500) and test on test set (last 500)
